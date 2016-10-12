@@ -1,2 +1,2 @@
 # wam-mw
-WebAppMaker Middleware Component
+WebAppMaker Middleware Component update
